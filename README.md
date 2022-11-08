@@ -44,8 +44,9 @@ P2P-CI
 ├── centralized_server.py       # server code
 ├── constants.py                # file with constants used across the project
 ├── peer.py                     # peer code with upload server and menu driven program
+├── proj1.pdf                   # CSC 573 project 1 description
 ├── README.md                   # Documentation file
-└── utils.py
+└── utils.py                    # include utility functions used across client and server
 ```
 
 - Copy the rfcs from http://www.ietf.org/ under `rfc_files` folder.
