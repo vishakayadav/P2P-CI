@@ -5,6 +5,10 @@ Rather than using this centralized server for downloading RFCs, we built a P2P-C
 download an RFC that they do not have in their hard drive, may download it from another active peer who does.
 All communication among peers or between a peer and the server take place over TCP.
 
+## Team-members:
+- Vishaka Yadav (vyadav)
+- Nisarg Shah (nsshah5)
+
 ## Prerequisites:
 Python version >= 3.10
 OS: any except Windows.
